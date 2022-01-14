@@ -1,0 +1,1 @@
+{"id":"A2C2EmptyCage","slug":"empty-cage","name":"Empty Cage","icon":"a2c2emptycage_demonhunter_male","tooltipParams":"/item/empty-cage-A2C2EmptyCage","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}

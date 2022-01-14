@@ -1,0 +1,1 @@
+{"id":"PrimordialKey","slug":"primordial-key","name":"Primordial Key","icon":"primordialkey_demonhunter_male","tooltipParams":"/item/primordial-key-PrimordialKey","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}

@@ -1,0 +1,1 @@
+{"id":"Cloak_003","slug":"cape","name":"Cape","icon":"cloak_003_demonhunter_male","tooltipParams":"/item/cape-Cloak_003","requiredLevel":17,"stackSizeMax":0,"accountBound":false,"typeName":"Cloak","type":{"twoHanded":false,"id":"Cloak"},"armor":"60 - 69","armorHtml":"60 - 69","color":"white","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":["torso"],"setItems":[]}

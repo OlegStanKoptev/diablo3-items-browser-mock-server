@@ -1,0 +1,1 @@
+{"id":"PH_Orb","slug":"mystery-orb","name":"Mystery Orb","icon":"ph_orb_demonhunter_male","tooltipParams":"/item/mystery-orb-PH_Orb","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Source","type":{"twoHanded":false,"id":"Orb"},"color":"white","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":["right-hand","follower-right-hand"],"setItems":[]}

@@ -1,0 +1,1 @@
+{"id":"CultistCellarKey","slug":"cellar-key","name":"Cellar Key","icon":"cultistcellarkey_demonhunter_male","tooltipParams":"/item/cellar-key-CultistCellarKey","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}

@@ -1,0 +1,1 @@
+{"id":"A2C2OreBag","slug":"ore-bag","name":"Ore Bag","icon":"a2c2orebag_demonhunter_male","tooltipParams":"/item/ore-bag-A2C2OreBag","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}

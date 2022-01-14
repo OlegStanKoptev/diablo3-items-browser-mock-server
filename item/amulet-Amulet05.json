@@ -1,0 +1,1 @@
+{"id":"Amulet05","slug":"amulet","name":"Amulet","icon":"amulet05_demonhunter_male","tooltipParams":"/item/amulet-Amulet05","requiredLevel":23,"stackSizeMax":0,"accountBound":false,"typeName":"Amulet","type":{"twoHanded":false,"id":"Amulet"},"color":"white","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":["neck","follower-neck"],"setItems":[]}

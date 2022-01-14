@@ -1,0 +1,1 @@
+{"id":"x1_WestM_Food","slug":"food","name":"Food","icon":"x1_westm_food_demonhunter_male","tooltipParams":"/item/food-x1_WestM_Food","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}

@@ -1,0 +1,1 @@
+{"id":"AngelicSeal","slug":"angelic-seal","name":"Angelic Seal","icon":"angelicseal_demonhunter_male","tooltipParams":"/item/angelic-seal-AngelicSeal","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}

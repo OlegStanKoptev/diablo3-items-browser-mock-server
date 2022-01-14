@@ -1,0 +1,1 @@
+{"id":"JewelerBonusLoot","slug":"shens-loot","name":"Shen's Loot","icon":"jewelerbonusloot_demonhunter_male","tooltipParams":"/item/shens-loot-JewelerBonusLoot","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}

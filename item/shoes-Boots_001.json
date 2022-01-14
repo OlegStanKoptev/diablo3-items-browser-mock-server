@@ -1,0 +1,1 @@
+{"id":"Boots_001","slug":"shoes","name":"Shoes","icon":"boots_001_demonhunter_male","tooltipParams":"/item/shoes-Boots_001","requiredLevel":1,"stackSizeMax":0,"accountBound":false,"typeName":"Boots","type":{"twoHanded":false,"id":"Boots"},"armor":"7 - 8","armorHtml":"7 - 8","color":"white","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":["feet"],"setItems":[]}

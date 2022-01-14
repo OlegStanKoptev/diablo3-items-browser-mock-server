@@ -1,0 +1,1 @@
+{"id":"TorrQuestItem","slug":"ahrens-hammer","name":"Ahren's Hammer","icon":"torrquestitem_demonhunter_male","tooltipParams":"/item/ahrens-hammer-TorrQuestItem","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}

@@ -1,0 +1,1 @@
+{"id":"LeoricRelic","slug":"leorics-relic","name":"Leoric's Relic","icon":"leoricrelic_demonhunter_male","tooltipParams":"/item/leorics-relic-LeoricRelic","requiredLevel":0,"stackSizeMax":0,"accountBound":false,"typeName":"Quest","type":{"twoHanded":false,"id":"Quest"},"color":"green","isSeasonRequiredToDrop":false,"seasonRequiredToDrop":-1,"slots":[],"setItems":[]}
